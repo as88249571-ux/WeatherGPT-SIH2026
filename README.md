@@ -1,5 +1,7 @@
 # WeatherGPT
 
+    ### 🌐 Live Demo:  [  https://as88249571-ux.github.io/WeatherGPT-SIH2026/  ]
+
 **A map-first weather intelligence workspace for a Smart India Hackathon demonstration.**
 
 WeatherGPT makes weather information easier to use: select a place, explore its forecast, and ask what the conditions mean for your day. Weather data supplies the numbers; the interpreter selects and explains them. This is a working static frontend prototype, not a deployed full-stack AI service or a safety-critical warning system.
